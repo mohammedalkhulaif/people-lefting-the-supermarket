@@ -1,0 +1,54 @@
+body {
+    background-image: url("https://images.yourstory.com/cs/1/e5b17800-a55f-11e9-b35f-f1bb3b1749a7/Supermarketes_-Business1563017937085.jpg?w=752&fm=auto&ar=2:1&mode=crop&crop=faces");
+    background-size: cover;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    height: 100vh;
+}
+
+.container {
+      background: lightgoldenrodyellow;
+    max-width: 45%;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: 3px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+}
+
+#increment-btn {
+    background: darkred;
+}
+
+#save-btn {
+    background: darkgreen;
+}
+
+#save-el {
+    font-wight: bold; 
+}
+
+
